@@ -1,0 +1,43 @@
+﻿  MyVector.cpp
+  Vector.cpp
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(209,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(200): message : во время компиляции функции-члена класс шаблон "void MyVector::Vector<char>::resize(size_t)"
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(5): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "MyVector::Vector<char>"
+  Создание кода...
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(169): warning C4715: MyVector::Vector<char>::cbegin: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(176): warning C4715: MyVector::Vector<char>::cend: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(162): warning C4715: MyVector::Vector<char>::end: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(155): warning C4715: MyVector::Vector<char>::begin: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(155): warning C4715: MyVector::Vector<int>::begin: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(162): warning C4715: MyVector::Vector<int>::end: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(169): warning C4715: MyVector::Vector<int>::cbegin: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(176): warning C4715: MyVector::Vector<int>::cend: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(155): warning C4715: MyVector::Vector<short>::begin: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(162): warning C4715: MyVector::Vector<short>::end: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(176): warning C4715: MyVector::Vector<short>::cend: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(169): warning C4715: MyVector::Vector<short>::cbegin: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(155): warning C4715: MyVector::Vector<long>::begin: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(162): warning C4715: MyVector::Vector<long>::end: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(169): warning C4715: MyVector::Vector<long>::cbegin: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(176): warning C4715: MyVector::Vector<long>::cend: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(155): warning C4715: MyVector::Vector<__int64>::begin: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(162): warning C4715: MyVector::Vector<__int64>::end: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(169): warning C4715: MyVector::Vector<__int64>::cbegin: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(176): warning C4715: MyVector::Vector<__int64>::cend: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(155): warning C4715: MyVector::Vector<double>::begin: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(162): warning C4715: MyVector::Vector<double>::end: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(169): warning C4715: MyVector::Vector<double>::cbegin: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(176): warning C4715: MyVector::Vector<double>::cend: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(155): warning C4715: MyVector::Vector<float>::begin: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(162): warning C4715: MyVector::Vector<float>::end: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(169): warning C4715: MyVector::Vector<float>::cbegin: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(176): warning C4715: MyVector::Vector<float>::cend: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(155): warning C4715: MyVector::Vector<long double>::begin: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(162): warning C4715: MyVector::Vector<long double>::end: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(169): warning C4715: MyVector::Vector<long double>::cbegin: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(176): warning C4715: MyVector::Vector<long double>::cend: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(155): warning C4715: MyVector::Vector<unsigned __int64>::begin: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(162): warning C4715: MyVector::Vector<unsigned __int64>::end: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(169): warning C4715: MyVector::Vector<unsigned __int64>::cbegin: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\MyVector\MyVector\Vector.cpp(176): warning C4715: MyVector::Vector<unsigned __int64>::cend: значение возвращается не при всех путях выполнения
+  MyVector.vcxproj -> C:\Users\User\source\repos\MyVector\x64\Debug\MyVector.exe
